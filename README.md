@@ -28,7 +28,7 @@ Welcome to the Digital Company WordPress project repository. This comprehensive 
 
 To run this WordPress project on your local system, follow these steps:
 
-1. Install [XAMPP](https://www.apachefriends.org/index.html).
+1. Install [XAMPP] (https://www.apachefriends.org/index.html).
 2. Start the "Apache" and "MySQL" servers within XAMPP.
 3. Navigate to the "htdocs" folder within your XAMPP installation directory.
 4. Clone this repository into the "htdocs" folder.
