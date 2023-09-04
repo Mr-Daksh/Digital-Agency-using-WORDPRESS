@@ -1,4 +1,4 @@
-# Digital Company WordPress Project
+# Digital Company using WordPress
 
 ## Overview
 
