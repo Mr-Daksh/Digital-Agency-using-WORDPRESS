@@ -34,6 +34,13 @@ To run this WordPress project on your local system, follow these steps:
 4. Clone this repository into the "htdocs" folder.
 5. Access the WordPress site via `http://localhost/your-project-folder-name`.
 
+## Contact Us
+
+If you have any questions, suggestions, or would like to get in touch for any reason, please feel free to reach out:
+
+- **Email**: dakshsahu24@gmail.com
+- **Phone**: (+91) 731-8486-989
+
 ## Get Involved
 
 If you wish to contribute to this project, have any questions, or seek collaboration, please do not hesitate to reach out. We are enthusiastic about the prospect of working together.
